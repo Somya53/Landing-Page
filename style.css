@@ -107,10 +107,33 @@ ul {
 }
 
 .text {
-    color: #1F2937;
+    color:	#374151;
     padding: 8px;
     padding-bottom: 100px;
 }
+
 .info {
     max-width: 150px;
   }
+
+.quote {
+    background-color: #E5E7EB;
+    color: 	#374151;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.quote-body {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.quote-person {
+    padding: 8px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+}
